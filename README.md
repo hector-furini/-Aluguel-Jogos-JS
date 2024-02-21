@@ -14,7 +14,7 @@
 
 ## English
 
-<h1>Drawing Numbers</h1>
+<h1>Games Renting</h1>
 
 <h2>About</h2>
 <p>Project used in Alura's programming logic courses.<p>
